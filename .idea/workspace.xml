@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7159d9a-b3cd-4582-8f4d-d88b9ddfab1b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/protocol.xlsx" afterDir="false" />
+    <list default="true" id="c7159d9a-b3cd-4582-8f4d-d88b9ddfab1b" name="Changes" comment="pandaaaaas">
+      <change afterPath="$PROJECT_DIR$/fotoelektryka.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grubosc.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grubosc2.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -25,14 +27,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/sowam/PycharmProjects/pythonProject1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sowam/PycharmProjects/pythonProject1&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject1" />
@@ -65,9 +67,19 @@
       <option name="presentableId" value="Default" />
       <updated>1679855216291</updated>
     </task>
+    <task id="LOCAL-00001" summary="pandaaaaas">
+      <created>1681656475862</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681656475862</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="pandaaaaas" />
+    <option name="LAST_COMMIT_MESSAGE" value="pandaaaaas" />
   </component>
 </project>
